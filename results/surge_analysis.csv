@@ -1,0 +1,9 @@
+variant_id,variant_name,surge_lead_nmae,no_surge_lead_nmae,surge_ratio,origins_analyzed
+naive,"Naive",0.3661,0.1303,2.81,29
+ma_4,"MA (w=4)",0.2797,0.144,1.94,29
+ma_8,"MA (w=8)",0.2626,0.1451,1.81,29
+ma_12,"MA (w=12)",0.2521,0.1405,1.79,29
+ses_01,"SES (alpha=0.1)",0.2425,0.136,1.78,29
+ses_03,"SES (alpha=0.3)",0.2668,0.1319,2.02,29
+ses_05,"SES (alpha=0.5)",0.2924,0.1284,2.28,29
+seasonal_naive,"Seasonal Naive",0.2961,0.1853,1.6,29

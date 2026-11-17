@@ -1,0 +1,78 @@
+:root {
+  color-scheme: dark;
+
+  /* Dark Command Console Tokens (WCAG 2.1 AA Compliant) */
+  --bg: #0c110d;
+  --surface: #182118;
+  --surface-2: #212d21;
+  --surface-3: #2a382a;
+  --border: rgba(190, 210, 160, 0.22);
+  --border-subtle: rgba(190, 210, 160, 0.22);
+  --border-light: rgba(190, 210, 160, 0.35);
+
+  /* Clear Text Hierarchy */
+  --text: #f1f4e8;
+  --text-primary: #f1f4e8;
+  --text-dark: #f1f4e8;
+  --text-secondary: #c9d1b8;
+  --text-muted: #a3ad94;
+  --muted: #a3ad94;
+  --text-dim: #a3ad94;
+  --text-placeholder: #8d9780;
+
+  /* Accents */
+  --sage: #a9c486;
+  --sand: #d8cb9f;
+  --amber: #e0a947;
+  --ochre: #e0a947;
+  --brick: #d4705a;
+  --brick-light: #e07d67;
+  --steel: #86a9cc;
+  --navy: #86a9cc;
+
+  /* Semantic UI tokens */
+  --bg-page: var(--bg);
+  --bg-card: var(--surface);
+  --bg-card-alt: var(--surface-2);
+
+  /* Backwards compatibility aliases */
+  --olive-900: #182118;
+  --olive-700: #212d21;
+  --olive-500: #a9c486;
+  --khaki-100: #f1f4e8;
+  --khaki-200: #c9d1b8;
+  --ink: #f1f4e8;
+
+  --font-heading: 'Barlow Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Share Tech Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  --font-hud: 'Share Tech Mono', monospace;
+
+  font-family: var(--font-body);
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #0c110d;
+  color: var(--text-primary);
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

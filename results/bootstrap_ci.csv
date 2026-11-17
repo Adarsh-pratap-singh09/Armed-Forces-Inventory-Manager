@@ -1,0 +1,25 @@
+pattern,variant_id,variant_name,mean_diff_vs_ses03,ci_lower_95,ci_upper_95,iterations
+steady,naive,"Naive",0.0204,0.018,0.0227,2000
+steady,ma_4,"MA (w=4)",0.0024,0.0017,0.0031,2000
+steady,ma_8,"MA (w=8)",0,-0.0013,0.0016,2000
+steady,ma_12,"MA (w=12)",0.0001,-0.0018,0.0021,2000
+steady,ses_01,"SES (alpha=0.1)",-0.0021,-0.0036,-0.0006,2000
+steady,ses_03,"SES (alpha=0.3)",0,0,0,2000
+steady,ses_05,"SES (alpha=0.5)",0.0041,0.0033,0.0048,2000
+steady,seasonal_naive,"Seasonal Naive",0.0123,0.0011,0.0236,2000
+seasonal,naive,"Naive",-0.0404,-0.0498,-0.031,2000
+seasonal,ma_4,"MA (w=4)",-0.0133,-0.0172,-0.0089,2000
+seasonal,ma_8,"MA (w=8)",0.0338,0.0299,0.0376,2000
+seasonal,ma_12,"MA (w=12)",0.0761,0.0662,0.0861,2000
+seasonal,ses_01,"SES (alpha=0.1)",0.0775,0.0667,0.0884,2000
+seasonal,ses_03,"SES (alpha=0.3)",0,0,0,2000
+seasonal,ses_05,"SES (alpha=0.5)",-0.0272,-0.0318,-0.0227,2000
+seasonal,seasonal_naive,"Seasonal Naive",-0.0804,-0.0983,-0.0608,2000
+spiky,naive,"Naive",0.0435,0.0343,0.0533,2000
+spiky,ma_4,"MA (w=4)",0.0119,0.009,0.0147,2000
+spiky,ma_8,"MA (w=8)",0.0052,-0.0003,0.0106,2000
+spiky,ma_12,"MA (w=12)",-0.0008,-0.0089,0.0066,2000
+spiky,ses_01,"SES (alpha=0.1)",-0.0066,-0.0121,-0.001,2000
+spiky,ses_03,"SES (alpha=0.3)",0,0,0,2000
+spiky,ses_05,"SES (alpha=0.5)",0.0095,0.0061,0.0131,2000
+spiky,seasonal_naive,"Seasonal Naive",0.0603,0.0282,0.0952,2000

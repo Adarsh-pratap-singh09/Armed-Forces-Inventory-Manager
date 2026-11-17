@@ -1,0 +1,241 @@
+vehicle_id,depot_id,model,variant_id,one_step_nmae,four_step_nmae
+VEH-001,leh,"Ashok Leyland Stallion 4x4",naive,0.177,0.132
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ma_4,0.125,0.0844
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ma_8,0.1233,0.0753
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ma_12,0.1215,0.0692
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ses_01,0.1201,0.0641
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ses_03,0.1304,0.0781
+VEH-001,leh,"Ashok Leyland Stallion 4x4",ses_05,0.1416,0.0905
+VEH-001,leh,"Ashok Leyland Stallion 4x4",seasonal_naive,0.1343,0.0628
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",naive,0.1026,0.0816
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ma_4,0.0813,0.0573
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ma_8,0.0824,0.0517
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ma_12,0.0821,0.0525
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ses_01,0.0799,0.0461
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ses_03,0.0812,0.0538
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",ses_05,0.0871,0.06
+VEH-002,leh,"Ashok Leyland Super Stallion 6x6",seasonal_naive,0.0902,0.0349
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",naive,0.2158,0.1629
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ma_4,0.1817,0.1335
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ma_8,0.1821,0.1151
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ma_12,0.1692,0.0945
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ses_01,0.1687,0.0978
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ses_03,0.179,0.1169
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",ses_05,0.1818,0.1238
+VEH-003,leh,"Tatra T815 8x8 Heavy Chassis",seasonal_naive,0.1649,0.1
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",naive,0.129,0.0961
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_4,0.1004,0.0691
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_8,0.093,0.0671
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_12,0.0925,0.067
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_01,0.089,0.0594
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_03,0.0983,0.0683
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_05,0.1066,0.0722
+VEH-004,leh,"Ashok Leyland 7.5 kL Fuel Bowser",seasonal_naive,0.1057,0.0576
+VEH-005,pathankot,"Tata LPTA 715 4x4",naive,0.1461,0.1113
+VEH-005,pathankot,"Tata LPTA 715 4x4",ma_4,0.1109,0.0716
+VEH-005,pathankot,"Tata LPTA 715 4x4",ma_8,0.1023,0.0579
+VEH-005,pathankot,"Tata LPTA 715 4x4",ma_12,0.0991,0.0529
+VEH-005,pathankot,"Tata LPTA 715 4x4",ses_01,0.0986,0.0518
+VEH-005,pathankot,"Tata LPTA 715 4x4",ses_03,0.1056,0.0654
+VEH-005,pathankot,"Tata LPTA 715 4x4",ses_05,0.113,0.0746
+VEH-005,pathankot,"Tata LPTA 715 4x4",seasonal_naive,0.1212,0.0524
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",naive,0.2125,0.1763
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ma_4,0.1752,0.0906
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ma_8,0.1671,0.0785
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ma_12,0.1577,0.0672
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ses_01,0.1586,0.0641
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ses_03,0.1721,0.0896
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",ses_05,0.1796,0.1122
+VEH-006,pathankot,"Force Gurkha 4x4 Light Patrol",seasonal_naive,0.1892,0.0864
+VEH-007,pathankot,"Mahindra Marksman 4x4",naive,0.1309,0.1134
+VEH-007,pathankot,"Mahindra Marksman 4x4",ma_4,0.1121,0.0887
+VEH-007,pathankot,"Mahindra Marksman 4x4",ma_8,0.1092,0.0757
+VEH-007,pathankot,"Mahindra Marksman 4x4",ma_12,0.102,0.0729
+VEH-007,pathankot,"Mahindra Marksman 4x4",ses_01,0.1042,0.068
+VEH-007,pathankot,"Mahindra Marksman 4x4",ses_03,0.106,0.0789
+VEH-007,pathankot,"Mahindra Marksman 4x4",ses_05,0.1105,0.086
+VEH-007,pathankot,"Mahindra Marksman 4x4",seasonal_naive,0.1237,0.06
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",naive,0.1773,0.1335
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ma_4,0.136,0.082
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ma_8,0.123,0.068
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ma_12,0.1194,0.0639
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ses_01,0.1194,0.0608
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ses_03,0.1338,0.0753
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",ses_05,0.1467,0.0881
+VEH-008,pathankot,"Tata 6x6 Wrecker Recovery",seasonal_naive,0.1417,0.0475
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",naive,0.1722,0.1501
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ma_4,0.1618,0.106
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ma_8,0.1487,0.0863
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ma_12,0.1376,0.0705
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ses_01,0.1417,0.0719
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ses_03,0.1535,0.0927
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",ses_05,0.1589,0.1089
+VEH-009,jodhpur,"Ashok Leyland Stallion 4x4",seasonal_naive,0.1743,0.0815
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",naive,0.1649,0.1245
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ma_4,0.1338,0.0998
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ma_8,0.132,0.0867
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ma_12,0.1309,0.0829
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ses_01,0.1276,0.0757
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ses_03,0.1318,0.0867
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",ses_05,0.1387,0.092
+VEH-010,jodhpur,"Ashok Leyland Super Stallion 6x6",seasonal_naive,0.1275,0.0562
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",naive,0.2003,0.1648
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ma_4,0.1648,0.1019
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ma_8,0.1436,0.0776
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ma_12,0.1407,0.0694
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ses_01,0.1424,0.0736
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ses_03,0.1552,0.0894
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",ses_05,0.1672,0.1084
+VEH-011,jodhpur,"Tatra T815 8x8 Heavy Chassis",seasonal_naive,0.182,0.0836
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",naive,0.1118,0.0943
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ma_4,0.0953,0.0633
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ma_8,0.0934,0.0695
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ma_12,0.0911,0.0695
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ses_01,0.0873,0.0595
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ses_03,0.0897,0.0634
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",ses_05,0.0939,0.0673
+VEH-012,jodhpur,"Ashok Leyland 7.5 kL Fuel Bowser",seasonal_naive,0.1102,0.0527
+VEH-013,guwahati,"Tata LPTA 715 4x4",naive,0.2274,0.2081
+VEH-013,guwahati,"Tata LPTA 715 4x4",ma_4,0.1985,0.1463
+VEH-013,guwahati,"Tata LPTA 715 4x4",ma_8,0.1787,0.1196
+VEH-013,guwahati,"Tata LPTA 715 4x4",ma_12,0.1799,0.1174
+VEH-013,guwahati,"Tata LPTA 715 4x4",ses_01,0.1751,0.1079
+VEH-013,guwahati,"Tata LPTA 715 4x4",ses_03,0.1798,0.1313
+VEH-013,guwahati,"Tata LPTA 715 4x4",ses_05,0.1916,0.1517
+VEH-013,guwahati,"Tata LPTA 715 4x4",seasonal_naive,0.2173,0.1224
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",naive,0.1469,0.1179
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ma_4,0.1214,0.068
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ma_8,0.1048,0.0544
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ma_12,0.1016,0.0518
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ses_01,0.1026,0.0499
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ses_03,0.1143,0.0628
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",ses_05,0.1225,0.0765
+VEH-014,guwahati,"Force Gurkha 4x4 Light Patrol",seasonal_naive,0.1241,0.0539
+VEH-015,guwahati,"Mahindra Marksman 4x4",naive,0.1597,0.1423
+VEH-015,guwahati,"Mahindra Marksman 4x4",ma_4,0.1239,0.1037
+VEH-015,guwahati,"Mahindra Marksman 4x4",ma_8,0.114,0.0765
+VEH-015,guwahati,"Mahindra Marksman 4x4",ma_12,0.1119,0.0663
+VEH-015,guwahati,"Mahindra Marksman 4x4",ses_01,0.1113,0.0673
+VEH-015,guwahati,"Mahindra Marksman 4x4",ses_03,0.1174,0.093
+VEH-015,guwahati,"Mahindra Marksman 4x4",ses_05,0.1288,0.1102
+VEH-015,guwahati,"Mahindra Marksman 4x4",seasonal_naive,0.1681,0.109
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",naive,0.164,0.1594
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ma_4,0.1409,0.1111
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ma_8,0.1375,0.0945
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ma_12,0.134,0.083
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ses_01,0.1301,0.0821
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ses_03,0.1358,0.0968
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",ses_05,0.1444,0.1163
+VEH-016,guwahati,"Tata 6x6 Wrecker Recovery",seasonal_naive,0.1436,0.0708
+VEH-017,pune,"Ashok Leyland Stallion 4x4",naive,0.1775,0.1465
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ma_4,0.1655,0.1179
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ma_8,0.1458,0.1007
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ma_12,0.139,0.093
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ses_01,0.1376,0.0869
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ses_03,0.1496,0.1065
+VEH-017,pune,"Ashok Leyland Stallion 4x4",ses_05,0.1573,0.1172
+VEH-017,pune,"Ashok Leyland Stallion 4x4",seasonal_naive,0.1583,0.0718
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",naive,0.2413,0.1948
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ma_4,0.2072,0.1379
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ma_8,0.1961,0.1285
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ma_12,0.1893,0.1232
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ses_01,0.1835,0.1131
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ses_03,0.2025,0.1324
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",ses_05,0.2134,0.1442
+VEH-018,pune,"Ashok Leyland Super Stallion 6x6",seasonal_naive,0.2127,0.0868
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",naive,0.1626,0.143
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ma_4,0.1461,0.1126
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ma_8,0.1356,0.0835
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ma_12,0.1318,0.077
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ses_01,0.129,0.0752
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ses_03,0.1389,0.096
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",ses_05,0.1409,0.1086
+VEH-019,pune,"Tatra T815 8x8 Heavy Chassis",seasonal_naive,0.1251,0.0622
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",naive,0.1164,0.1084
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ma_4,0.1155,0.0703
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ma_8,0.1116,0.0701
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ma_12,0.1079,0.07
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ses_01,0.104,0.0642
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ses_03,0.1071,0.0714
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",ses_05,0.1077,0.0803
+VEH-020,pune,"Ashok Leyland 7.5 kL Fuel Bowser",seasonal_naive,0.1352,0.0689
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",naive,0.1151,0.1053
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ma_4,0.1081,0.078
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ma_8,0.105,0.0661
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ma_12,0.097,0.0499
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ses_01,0.0974,0.0542
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ses_03,0.1018,0.0694
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",ses_05,0.1029,0.079
+VEH-021,visakhapatnam,"Tata LPTA 715 4x4",seasonal_naive,0.1022,0.053
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",naive,0.1556,0.136
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ma_4,0.1211,0.0924
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ma_8,0.1102,0.065
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ma_12,0.1074,0.0645
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ses_01,0.1092,0.0624
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ses_03,0.1124,0.0826
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",ses_05,0.1224,0.0985
+VEH-022,visakhapatnam,"Force Gurkha 4x4 Light Patrol",seasonal_naive,0.1226,0.0565
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",naive,0.139,0.1129
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ma_4,0.1177,0.0983
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ma_8,0.1095,0.0837
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ma_12,0.1013,0.0772
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ses_01,0.1005,0.0719
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ses_03,0.1103,0.0866
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",ses_05,0.1167,0.0929
+VEH-023,visakhapatnam,"Mahindra Marksman 4x4",seasonal_naive,0.1286,0.0765
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",naive,0.2366,0.2043
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ma_4,0.2126,0.1434
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ma_8,0.1723,0.1028
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ma_12,0.1719,0.0997
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ses_01,0.1743,0.0989
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ses_03,0.1937,0.1237
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",ses_05,0.207,0.145
+VEH-024,visakhapatnam,"Tata 6x6 Wrecker Recovery",seasonal_naive,0.2251,0.1215
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",naive,0.1307,0.098
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ma_4,0.1123,0.0728
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ma_8,0.105,0.0602
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ma_12,0.0976,0.0574
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ses_01,0.0983,0.056
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ses_03,0.1071,0.0643
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",ses_05,0.1146,0.0736
+VEH-025,kochi,"Ashok Leyland Stallion 4x4",seasonal_naive,0.1223,0.06
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",naive,0.1877,0.1378
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ma_4,0.1436,0.0857
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ma_8,0.1305,0.0606
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ma_12,0.1282,0.0597
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ses_01,0.1277,0.0569
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ses_03,0.1382,0.0714
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",ses_05,0.149,0.0879
+VEH-026,kochi,"Ashok Leyland Super Stallion 6x6",seasonal_naive,0.1604,0.0615
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",naive,0.233,0.1786
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ma_4,0.1794,0.128
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ma_8,0.1733,0.1013
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ma_12,0.1614,0.0925
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ses_01,0.1617,0.0883
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ses_03,0.1716,0.111
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",ses_05,0.1871,0.1269
+VEH-027,kochi,"Tatra T815 8x8 Heavy Chassis",seasonal_naive,0.1939,0.1099
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",naive,0.1389,0.1003
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_4,0.0984,0.0735
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_8,0.0888,0.0588
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ma_12,0.0891,0.0541
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_01,0.0873,0.0542
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_03,0.0914,0.0649
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",ses_05,0.1008,0.0758
+VEH-028,chandigarh,"Ashok Leyland 7.5 kL Fuel Bowser",seasonal_naive,0.1146,0.0564
+VEH-029,chandigarh,"Tata LPTA 715 4x4",naive,0.2451,0.2059
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ma_4,0.1943,0.1251
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ma_8,0.1698,0.0872
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ma_12,0.1711,0.085
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ses_01,0.1711,0.0847
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ses_03,0.1816,0.1083
+VEH-029,chandigarh,"Tata LPTA 715 4x4",ses_05,0.1932,0.1323
+VEH-029,chandigarh,"Tata LPTA 715 4x4",seasonal_naive,0.2112,0.1178
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",naive,0.2782,0.1968
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ma_4,0.2037,0.1198
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ma_8,0.1845,0.1037
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ma_12,0.1812,0.0953
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ses_01,0.1825,0.0922
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ses_03,0.1993,0.109
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",ses_05,0.2185,0.1263
+VEH-030,chandigarh,"Force Gurkha 4x4 Light Patrol",seasonal_naive,0.2213,0.0888
